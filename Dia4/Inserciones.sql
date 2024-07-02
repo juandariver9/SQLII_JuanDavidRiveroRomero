@@ -1,3 +1,5 @@
+use AutoRental;
+
 INSERT INTO Sucursales (ciudad, direccion, telefono_fijo, celular, correo_electronico) VALUES
 ('Bucaramanga', 'Calle 32 #32-12', '61480456', '3185498044', 'SucursalBucaramanga@gmail.com'),
 ('Medellin', 'Carrera 45 #67-89', '61234567', '3001234567', 'SucursalMedellin@gmail.com'),

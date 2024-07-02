@@ -1,4 +1,6 @@
 
+use AutoRental;
+
 -- Creación de usuarios
 CREATE USER 'Empleado'@'172.16.101.158' IDENTIFIED BY 'Empleado#1234';
 CREATE USER 'Cliente'@'172.16.101.158' IDENTIFIED BY 'Cliente#5678';
