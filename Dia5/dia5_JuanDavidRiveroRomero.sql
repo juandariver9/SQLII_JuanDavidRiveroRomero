@@ -4,6 +4,7 @@
 
 
 
+
 USE `mysql2_dia5`;
 
 -- Trigger para insertar o actualizar una ciudad en pais con
